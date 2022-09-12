@@ -1,0 +1,32 @@
+body{
+    margin:5px;
+    padding: 5px;
+    line-height:1.15;
+}
+
+h1, h2, h3 { 
+    font-weight:bold;
+    margin-top:15 px;
+}
+
+ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+    background-color: aqua;
+    display: inline-block;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    padding: 10px
+    
+}
+
+img main{
+    width: 24%;
+    padding: 15px;
+    border-style: dashed;
+    border-color: green;
+    box-sizing: border-box;
+    
+
+}
